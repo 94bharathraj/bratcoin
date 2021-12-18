@@ -6,7 +6,7 @@
 2. Enter the directory
    ```cd bratcoin```
 
-3. Create .env in this directory, the values of varaibles are present in the report
+3. Edit .env in this directory, the values of varaibles are present in the report
    ```vim .env```
    Paste the environment variables present in report
    ```
