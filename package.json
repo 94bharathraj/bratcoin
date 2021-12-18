@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eoinco/nci_2021.git"
+    "url": "https://github.com/94bharathraj/bratcoin"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/eoinco/nci_2021/issues"
+    "url": "https://github.com/94bharathraj/bratcoin/issues"
   },
-  "homepage": "https://github.com/eoinco/nci_2021#readme",
+  "homepage": "https://github.com/94bharathraj/bratcoin#readme",
   "dependencies": {
     "big-number": "^2.0.0",
     "bip39": "^3.0.4",
