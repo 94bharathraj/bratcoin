@@ -22,7 +22,7 @@
 4. Two methods to run the distribution for transaction to accounts present in accounts.txt
    
    Method 1 :
-   ```docker run 94bharathraj/bratcoin:3```
+   ```docker run 94bharathraj/bratcoin:4```
 
    OR 
    Method 2:
